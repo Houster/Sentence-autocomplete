@@ -1,0 +1,47 @@
+#container {
+    width: 500px;
+    height: 400px;
+}
+
+.user1 {
+    background-color: #42f5d488;
+    padding: 10px;
+}
+
+.user2 {
+    background-color: #428df555;
+    padding: 10px;
+}
+
+.msg {
+    padding: 2px;
+    margin: 2px;
+}
+
+.msg_right {
+    margin-left: 100px;
+    text-align: right;
+}
+
+.msg_left {
+    margin-right: 100px;
+}
+
+.msg_right_content {
+    display: inline-block;
+    text-align: left;
+}
+
+.msg_left_content {
+    display: inline-block;
+}
+
+body {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+.chat_input {
+    margin: 2px;
+    width: 490px;
+    height: 30px;
+}
